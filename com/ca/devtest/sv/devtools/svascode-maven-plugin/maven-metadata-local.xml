@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ca.devtest.sv.devtools</groupId>
+  <artifactId>svascode-maven-plugin</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180726153437</lastUpdated>
+  </versioning>
+</metadata>
